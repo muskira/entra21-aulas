@@ -1,4 +1,4 @@
-package POO.Basico.exemplo1.Exercícios.exercício1;
+package POO.Basico.Exercícios.exercício1;
 
 public class PrinciparExercícioum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO.Basico.exemplo1.Exercícios.exercício3;
+package POO.Basico.Exercícios.exercício3;
 
 public class ContaBancaria {
     double saldo;

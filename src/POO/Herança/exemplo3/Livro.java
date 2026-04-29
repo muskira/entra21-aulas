@@ -1,6 +1,6 @@
 package POO.Herança.exemplo3;
 
-public class Livro {
+public class Livro extends Produto{
 
     private String autor;
 
