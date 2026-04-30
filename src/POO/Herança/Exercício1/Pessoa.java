@@ -20,7 +20,7 @@ public class Pessoa {
         this.idade = idade;
     }
     public void exibirInformacoes(){
-        System.out.println("Nome: " this.nome);
-        System.out.println("Idade: " this.idade);
+        System.out.println("Nome: " + this.nome);
+        System.out.println("Idade: " + this.idade);
 }
 }
