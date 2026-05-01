@@ -9,10 +9,8 @@ public class Retangulo extends FormaGeometricaAbstract{
         this.Altura = altura;
         this.Largura = largura;
     }
-
-
-    @Override
-    double calcularArea() {
-
-    }
+        @Override
+        double calcularArea() {
+            return Altura * Largura;
+        }
 }
