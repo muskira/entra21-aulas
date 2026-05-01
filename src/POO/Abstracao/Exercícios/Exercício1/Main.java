@@ -9,8 +9,5 @@ public class Main {
        cachorro.emitirSom();
        gato.emitirSom();
 
-
-
-
     }
 }
